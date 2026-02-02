@@ -42,7 +42,15 @@
 <style>.engine{display:none;}</style>
 </head>
 <body>
-  
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5PK5BVK6TZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5PK5BVK6TZ');
+</script>
   <section data-bs-version="5.1" class="menu menu1 cid-sFGMsvHDIa" once="menu" id="menu1-1">
     
     <nav class="navbar navbar-dropdown navbar-expand-lg">
@@ -466,4 +474,5 @@
 </body>
 
 <!-- Mirrored from drivemotors.site/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 27 Jan 2026 14:58:00 GMT -->
+
 </html>
